@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.fast.lib.one">
+
+    <application
+        >
+
+        <activity android:name=".OneActivity"/>
+    </application>
+
+</manifest>
